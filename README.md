@@ -9,6 +9,12 @@ The aim is to identify the customer segments to whon the loan can be granted. Th
 2. NumPy
 3. Matplotib
 4. Seaborn
+5. from sklearn.model_selection import train_test_split
+6. from sklearn.neighbors import KNeighborsClassifier
+7. from sklearn import tree
+8. from sklearn.metrics import accuracy_score
+9. from sklearn import metrics
+10. from sklearn.metrics import classification_report, confusion_matrix
 
 **Pre-processing operations**
 
@@ -36,6 +42,8 @@ The aim is to identify the customer segments to whon the loan can be granted. Th
 **Model Building**
 
 Implemented supervised learning algorithm that follows **non-parametric** apporach 
+
 **KNN**
+  
 **Decision Tree**
 
